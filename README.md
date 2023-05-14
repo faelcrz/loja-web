@@ -1,2 +1,2 @@
-# rede-social
-Rede Social feita com Java(Spring Boo), MySQL e React
+# loja-web
+Loja feita com Java(Spring Boot), MySQL e React
